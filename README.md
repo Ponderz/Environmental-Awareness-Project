@@ -18,7 +18,7 @@ This project consists of two main parts:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Ponderz/Environmental-Awareness-Project
+git clone https://github.com/Ponderz/Environmental-Awareness-Project.git
 cd Environmental-Awareness-Project
 ```
 
