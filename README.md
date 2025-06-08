@@ -18,8 +18,8 @@ This project consists of two main parts:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/shipwreckedProject1.git
-cd shipwreckedProject1
+git clone https://github.com/Ponderz/Environmental-Awareness-Project
+cd Environmental-Awareness-Project
 ```
 
 ### 2. Install Python
@@ -44,10 +44,7 @@ pip install -r requirements.txt
 Navigate to the arcade directory and run the desired game:
 
 ```bash
-cd arcade
-python polluted_water_and_trees.py
-# or
-python hangtree.py
+python arcade.py
 ```
 
 ### 6. Running the CO₂ Data Analysis
@@ -55,8 +52,7 @@ python hangtree.py
 Navigate to the analysis directory and run the analysis script:
 
 ```bash
-cd ../analysis
-python co2_analysis.py
+python co2analysis.py
 ```
 
 ---
@@ -65,15 +61,10 @@ python co2_analysis.py
 
 ```
 shipwreckedProject1/
-│
-├── arcade/
-│   ├── polluted_water_and_trees.py
-│   └── hangtree.py
-│
-├── analysis/
-│   └── co2_analysis.py
-│
+├── arcade.py
+├── co2analysis.py
 ├── requirements.txt
+├── other .png files from analysis
 └── README.md
 ```
 
